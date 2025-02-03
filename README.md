@@ -18,7 +18,7 @@ I'm an __MS in Computer and Information Systems__ student at __Central Michigan 
 
 Feel free to take a look at my __GitHub__ overview. This gives a good understanding of the __languages__ used along with the total commits.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivaSankeerth&layout=compact&theme=radical&langs_count=10)](https://github.com/ShivaSankeerth/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithinreddyyarradla&layout=compact&theme=radical&langs_count=10)](https://github.com/Nithinreddyyarradla/github-readme-stats)
 
 ![Nithin Reddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithinreddyyarradla&show_icons=true&theme=radical)
 
